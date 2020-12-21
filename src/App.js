@@ -32,7 +32,7 @@ export default () => {
 
   const poolData = {
     UserPoolId: 'us-west-2_12BBCqOUc',
-    ClientId: '60jidnoi750gg6l6nr7niubv1m'
+    ClientId: '**********************'
   };
 
   const UserPool =  new CognitoUserPool(poolData);
